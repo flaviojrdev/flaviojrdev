@@ -1,4 +1,4 @@
-### About me
+## About me
 Hi! i'm currently a web developer student here in Brazil.
 - 🎮 I like developing games as a hobby
 - 🐶 Dog person
@@ -16,7 +16,6 @@ Hi! i'm currently a web developer student here in Brazil.
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MONGODNB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- 
  
  ## You can find me on
  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-junior-dev)
