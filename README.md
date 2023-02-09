@@ -1,6 +1,7 @@
 ## About me
-Hi! i'm currently a web developer student here in Brazil.
-- 🎮 I like developing games as a hobby
+Hi! i'm currently a student here in Brazil.
+- 🌐 Web developer
+- 🎮 Game developer as a hobby
 - 🐶 Dog person
 
 ## Current stack
