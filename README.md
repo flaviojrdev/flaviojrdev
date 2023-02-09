@@ -1,5 +1,5 @@
 ## About me
-Hi! i'm currently a student here in Brazil.
+Hi! I'm currently a student here in Brazil.
 - 🌐 Web developer
 - 🎮 Game developer as a hobby
 - 🐶 Dog person
