@@ -39,6 +39,6 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&count_private=true&show_icons=true&theme=transparent" alt="Flavio's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&count_private=true&show_icons=true&theme=transparent" alt="Flavio's GitHub stats" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="Top Languages" height="200em" />
 </p>
