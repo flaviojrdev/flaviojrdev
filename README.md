@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/117425361/235403509-2aee0d24-dbc1-4293-8b91-9e0556a508b7.gif" alt="Profile Gif (Credits: [Pixel Jeff](https://www.artstation.com/pixeljeff1995))" style="width: 80%">
-</p>
+</div>
 
 <h2><img src="https://user-images.githubusercontent.com/117425361/235404671-f69a8c85-dee8-4a45-91be-f892c8e93031.gif" width="32px"> Hello, my name is Flávio!</h2>
 
@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&count_private=true&show_icons=true&theme=transparent" alt="Flavio's GitHub stats" height="145em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="Top Languages" height="145em" />
-</p>
+<div align="center" style="display: flex; justify-content: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&count_private=true&show_icons=true&theme=transparent" alt="Flavio's GitHub stats" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="Top Languages" height="200em" />
+</div>
