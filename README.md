@@ -35,6 +35,6 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 <h2>Statistics <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="32" height="32"></h2>
 
 <div align="center" style="display: flex; justify-content: center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojrdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojrdev&show_icons=true&theme=transparent&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojrdev&layout=compact&langs_count=7&theme=transparent"/>
 </div>
